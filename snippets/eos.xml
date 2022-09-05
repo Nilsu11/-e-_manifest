@@ -11,6 +11,7 @@
   <remove-project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" groups="pdk-fs" />
   <remove-project path="packages/apps/Dialer" name="LineageOS/android_packages_apps_Dialer" groups="pdk-fs" />
   <remove-project path="packages/apps/LineageParts" name="LineageOS/android_packages_apps_LineageParts" />
+  <remove-project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" />
   <remove-project path="packages/apps/Settings" name="LineageOS/android_packages_apps_Settings" groups="pdk-fs" />
   <remove-project path="packages/apps/SettingsIntelligence" name="LineageOS/android_packages_apps_SettingsIntelligence" groups="pdk-fs" />
   <remove-project path="packages/apps/SetupWizard" name="LineageOS/android_packages_apps_SetupWizard" />
@@ -40,6 +41,7 @@
   <project path="packages/apps/DeskClock" name="e/os/android_packages_apps_DeskClock" groups="pdk-fs" remote="e" revision="epic13-s-bringup" />
   <project path="packages/apps/Dialer" name="e/os/android_packages_apps_Dialer" groups="pdk-fs" remote="e" />
   <project path="packages/apps/LineageParts" name="e/os/android_packages_apps_LineageParts" remote="e" />
+  <project path="packages/apps/Recorder" name="e/os/android_packages_apps_Recorder" remote="e" revision="epic13-s-bringup" />
   <project path="packages/apps/Settings" name="e/os/android_packages_apps_Settings" groups="pdk-fs" remote="e" revision="epic13-s-bringup" />
   <project path="packages/apps/SettingsIntelligence" name="e/os/android_packages_apps_SettingsIntelligence" groups="pdk-fs" remote="e" revision="epic13-s-bringup" />
   <project path="packages/apps/SetupWizard" name="e/os/android_packages_apps_SetupWizard" remote="e" revision="epic13-s-bringup"/>
