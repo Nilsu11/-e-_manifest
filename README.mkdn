@@ -28,3 +28,8 @@ Continuous Integration
 All supported devices are built as new versions are committed to ensuring that the source trees remain buildable.
 
 Builds produced can be downloaded from the [official website](https://doc.e.foundation/devices/).
+
+Specific to this version
+-----------------------
+
+read [this](https://github.com/Nilsu11/-e-_manifest/tree/v1-s/snippets/README.mkdn)
