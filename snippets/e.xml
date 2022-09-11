@@ -25,7 +25,10 @@
   <project path="vendor/lineage" name="e/os/android_vendor_lineage" remote="e" />
   <project path="vendor/eos" name="e/os/android_vendor_eos" remote="e" />
   <project path="packages/services/SplitInstallService" name="e/os/android_packages_services_SplitInstallService" remote="e" revision="main" />
-
+  
+  <!-- OpenWeatherMap -->
+  <project path="packages/providers/WeatherProvider" name="LineageOS/android_packages_providers_WeatherProvider" revision="lineage-16.0" />
+  
   <!-- ih8sn -->
   <project path="external/ih8sn" name="e/os/ih8sn" remote="e" revision="master" />
   
